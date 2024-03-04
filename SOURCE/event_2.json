@@ -1,0 +1,36 @@
+{
+"DeviceId": "a15dea5d-615c-4ddb-a2ec-0312j309bc0a",
+"Timestamp": 1502757714115,
+"Location":
+{
+"Country": "UK",
+"City": "London",
+"Region": "Region_1",
+"ZipCode": 482300
+},
+"Packages":
+[
+{
+"Name": "package_1",
+"Version": "523.6672.1223",
+"Type": "Internal",
+"Settings":
+[
+{"string.setting.name1": "value"},
+{"boolean.setting.name2": false},
+{"int.setting.name3": 252}
+]
+},
+{
+"Name": "package_3",
+"Version": "7.12",
+"Type": "External",
+"Settings":
+[
+{"string.setting.name1": "value1"},
+{"boolean.setting.name2": true},
+{"int.setting.name3": 111}
+]
+}
+]
+}

@@ -1,0 +1,37 @@
+{
+"DeviceId": "a25dea5d-615c-4ddb-a2ec-03124229bc0a",
+"Timestamp": 1502757714115,
+"Location":
+{
+"Country": "Poland",
+"City": "Warsaw",
+"Region": "Mazovian",
+"ZipCode": 1234
+},
+"Packages":
+[
+{
+"Name": "package_1",
+"Version": "111.6672.123",
+"Type": "Internal",
+"Settings":
+[
+{"string.setting.name1": "abc"},
+{"boolean.setting.name2": true},
+{"int.setting.name3": 251},
+{"int.setting.name4": 999}
+]
+},
+{
+"Name": "package_2",
+"Version": "6.12",
+"Type": "External",
+"Settings":
+[
+{"string.setting.name1": "value"},
+{"boolean.setting.name2": true},
+{"int.setting.name3": 251}
+]
+}
+]
+}
